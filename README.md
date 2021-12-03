@@ -1,4 +1,4 @@
-# Auto-Welcome-Bot
+# Auto-Welcome-Bots
 
   </a>
 </p>
