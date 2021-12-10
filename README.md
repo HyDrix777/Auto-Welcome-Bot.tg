@@ -32,6 +32,9 @@ Maintained By [Mo Tech](https://Telegram.dog/Mo_Tech_YT)
 
 ----
 ----
+### Deploy without Batton
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHydrayt777%2FAuto-Welcome-Bot.tg.git&envs=API_ID%2CAPI_HASH%2CAPP_NAME%2CBOT_TOKEN%2CHOSTED%2COWNER_ID%2CWELCOME_TEXT&API_IDDesc=Your+APP_ID+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&API_HASHDesc=Your+APP_HASH+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&APP_NAMEDesc=Railway+App+Name&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&HOSTEDDesc=Check+readme.md+file+for+more+details+%28true%29&OWNER_IDDesc=OWNER_ID&WELCOME_TEXTDesc=Set+Your+Welcome+Text+More+Information+Check+Out+Readme.md&referralCode=Hydrix)
+
 ### Deploy To Heroku👇
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHydrayt777%2FAuto-Welcome-Bot.tg.git&envs=API_ID%2CAPI_HASH%2CAPP_NAME%2CBOT_TOKEN%2CHOSTED%2COWNER_ID%2CWELCOME_TEXT%2CWELCOME_BUTTON%2CWELCOME_BUTTON_LINK%2CWELCOME_BUTTON_NAME&API_IDDesc=Your+APP_ID+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&API_HASHDesc=Your+APP_HASH+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&APP_NAMEDesc=Railway+App+Name&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&HOSTEDDesc=Check+readme.md+file+for+more+details+%28true%29&OWNER_IDDesc=OWNER_ID&WELCOME_TEXTDesc=Set+Your+Welcome+Text+More+Information+Check+Out+Readme.md&WELCOME_BUTTONDesc=Check+readme.md+file+for+more+details+%28true%29&WELCOME_BUTTON_LINKDesc=give+your+%5Bprivate+or+Public%5D+Channel+or+Group+Link+%7C%7C+you+must+use+https%3A%2F%2Ft.me+or+t.me+Dont+use+%40&WELCOME_BUTTON_NAMEDesc=Give+the+button+a+name+%28eg%3A-JOIN+NOW%29&referralCode=Hydrix)
 
