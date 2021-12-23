@@ -11,7 +11,7 @@ Pr0fess0r_99= Client(
 
 @Pr0fess0r_99.on_message(filters.command("start"))
 async def start(client: Pr0fess0r_99, update):
-    start_msg = "👋Hy {}, Iam Simple Auto Welcome Bot\n\njust add me your group and promote to admin\n\nMaintained By @HydraLivegrambot"
+    start_msg = "👋Hy {}, Iam Simple Auto Welcome Bot\n\njust add me your group and promote to admin\n\nCloned By @HydraLivegrambot"
     bot_username = await client.get_me()
     link = "PR0FESS0R-99/Auto-Welcome-Bot"
     reply_markup = InlineKeyboardMarkup(
